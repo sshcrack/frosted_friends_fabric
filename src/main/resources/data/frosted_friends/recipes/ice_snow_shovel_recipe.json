@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "frosted_friends:packed_ice_cubes"
+    },
+    "1": {
+      "item": "frosted_friends:ice_shovel"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "frosted_friends:ice_snow_shovel",
+    "count": 1
+  }
+}

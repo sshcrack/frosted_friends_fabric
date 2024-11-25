@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "title": {
+      "translate": "advancements.alive_snowman_adv.title"
+    },
+    "description": {
+      "translate": "advancements.alive_snowman_adv.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "alive_snowman_adv": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "frosted_friends:snowman_adv"
+}

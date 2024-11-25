@@ -1,0 +1,30 @@
+{
+  "replace": false,
+  "values": [
+    "frosted_friends:pile_of_snow",
+    "frosted_friends:heap_of_snow",
+    "frosted_friends:mound_of_snow",
+    "frosted_friends:snow_chest_1",
+    "frosted_friends:snow_chest_2",
+    "frosted_friends:snow_head_basic_1",
+    "frosted_friends:snow_head_classic_1",
+    "frosted_friends:snow_head_golem",
+    "frosted_friends:snow_head_christmas",
+    "frosted_friends:snow_head_top_hat",
+    "frosted_friends:snow_base",
+    "frosted_friends:snow_head_2",
+    "frosted_friends:snow_head_basic_2",
+    "frosted_friends:snow_head_basic_3",
+    "frosted_friends:snow_head_classic_2",
+    "frosted_friends:snow_head_classic_3",
+    "frosted_friends:snow_head_golem_2",
+    "frosted_friends:snow_head_golem_3",
+    "frosted_friends:snow_head_christmas_2",
+    "frosted_friends:snow_head_christmas_3",
+    "frosted_friends:snow_head_top_hat_2",
+    "frosted_friends:snow_head_top_hat_3",
+    "frosted_friends:snow_head_1",
+    "frosted_friends:snow_base_1",
+    "frosted_friends:snow_base_2"
+  ]
+}

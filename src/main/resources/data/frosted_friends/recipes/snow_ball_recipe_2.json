@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "frosted_friends:heap_of_snow"
+    }
+  ],
+  "result": {
+    "item": "minecraft:snowball",
+    "count": 4
+  }
+}

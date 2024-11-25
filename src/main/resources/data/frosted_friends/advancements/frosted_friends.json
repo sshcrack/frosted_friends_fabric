@@ -1,0 +1,23 @@
+{
+  "display": {
+    "background": "frosted_friends:textures/screens/ice.png",
+    "icon": {
+      "item": "frosted_friends:frosted_friends_logo"
+    },
+    "title": {
+      "translate": "advancements.frosted_friends.title"
+    },
+    "description": {
+      "translate": "advancements.frosted_friends.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "frosted_friends": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "frosted_friends:ice_bucket"
+    }
+  ],
+  "result": {
+    "item": "frosted_friends:ice_cubes",
+    "count": 4
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "frosted_friends:snow_in_a_bottle"
+    },
+    {
+      "item": "frosted_friends:snow_in_a_bottle"
+    },
+    {
+      "item": "frosted_friends:snow_in_a_bottle"
+    },
+    {
+      "item": "frosted_friends:snow_in_a_bottle"
+    }
+  ],
+  "result": {
+    "item": "minecraft:snowball",
+    "count": 4
+  }
+}

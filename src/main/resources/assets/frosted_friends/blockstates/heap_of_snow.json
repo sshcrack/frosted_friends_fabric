@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "frosted_friends:block/heap_of_snow"
+    },
+    "facing=east": {
+      "model": "frosted_friends:block/heap_of_snow",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "frosted_friends:block/heap_of_snow",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "frosted_friends:block/heap_of_snow",
+      "y": 270
+    }
+  }
+}

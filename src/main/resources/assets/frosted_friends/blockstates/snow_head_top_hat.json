@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "frosted_friends:block/snow_head_top_hat"
+    },
+    "facing=east": {
+      "model": "frosted_friends:block/snow_head_top_hat",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "frosted_friends:block/snow_head_top_hat",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "frosted_friends:block/snow_head_top_hat",
+      "y": 270
+    }
+  }
+}

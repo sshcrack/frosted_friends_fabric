@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "frosted_friends:fridge"
+    },
+    "title": {
+      "translate": "advancements.fridge_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.fridge_advancement.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "fridge_advancement": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "frosted_friends:frosted_friends"
+}

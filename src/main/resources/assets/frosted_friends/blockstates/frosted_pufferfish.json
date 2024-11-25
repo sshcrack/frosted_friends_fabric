@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "frosted_friends:block/frosted_pufferfish"
+    },
+    "facing=east": {
+      "model": "frosted_friends:block/frosted_pufferfish",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "frosted_friends:block/frosted_pufferfish",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "frosted_friends:block/frosted_pufferfish",
+      "y": 270
+    }
+  }
+}

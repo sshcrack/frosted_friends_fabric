@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "frosted_friends:snow_chest_1"
+    },
+    "title": {
+      "translate": "advancements.snowman_adv.title"
+    },
+    "description": {
+      "translate": "advancements.snowman_adv.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "snowman_adv": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "frosted_friends:frosted_friends"
+}
