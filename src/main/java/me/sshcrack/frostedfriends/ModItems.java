@@ -25,7 +25,7 @@ public class ModItems {
     public static final Item STEAM_BOTTLE = reg("steam_bottle", new Item(new Item.Settings()));
     public static final Item SNOW_IN_A_BOTTLE = reg("snow_in_a_bottle", new SnowInABottleItem());
     public static final Item CHRISTMAS_HELMET = reg("christmas_helmet", new ChristmasHatItem());
-    public static final Item TOP_HELMET = reg("top_hat_helmet", new TopHatItem());
+    public static final Item TOP_HELMET = reg("top_helmet", new TopHatItem());
     public static final Item WOODEN_SNOW_SHOVEL = reg("wooden_snow_shovel", new SnowShovelItem(ToolMaterials.WOOD));
     public static final Item STONE_SNOW_SHOVEL = reg("stone_snow_shovel", new SnowShovelItem(ToolMaterials.STONE));
     public static final Item IRON_SNOW_SHOVEL = reg("iron_snow_shovel", new SnowShovelItem(ToolMaterials.IRON));

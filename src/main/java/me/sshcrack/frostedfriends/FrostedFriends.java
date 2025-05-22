@@ -1,7 +1,7 @@
 package me.sshcrack.frostedfriends;
 
 import net.fabricmc.api.ModInitializer;
-
+import net.fabricmc.fabric.api.event.player.UseBlockCallback;
 import net.minecraft.util.Identifier;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -25,5 +25,7 @@ public class FrostedFriends implements ModInitializer {
         ModItems.initialize();
         ModEntities.initialize();
         ModTabs.initialize();
+        ModEntities.initialize();
+        ModEvents.initialize();
     }
 }

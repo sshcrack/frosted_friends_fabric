@@ -1,6 +1,7 @@
 package me.sshcrack.frostedfriends;
 
 import me.sshcrack.frostedfriends.armor.ChristmasHatArmorRenderer;
+import me.sshcrack.frostedfriends.armor.TopHatArmorRenderer;
 import me.sshcrack.frostedfriends.item.armor.ChristmasHatItem;
 import me.sshcrack.frostedfriends.item.armor.TopHatItem;
 import net.minecraft.client.render.entity.model.BipedEntityModel;
@@ -32,7 +33,7 @@ public class ModArmorRenderer {
             @Override
             public <T extends LivingEntity> @NotNull BipedEntityModel<?> getGeoArmorRenderer(@Nullable T livingEntity, ItemStack itemStack, @Nullable EquipmentSlot equipmentSlot, @Nullable BipedEntityModel<T> original) {
                 if (this.renderer == null) // Important that we do this. If we just instantiate  it directly in the field it can cause incompatibilities with some mods.
-                    this.renderer = new ChristmasHatArmorRenderer();
+                    this.renderer = new TopHatArmorRenderer();
 
                 return this.renderer;
             }

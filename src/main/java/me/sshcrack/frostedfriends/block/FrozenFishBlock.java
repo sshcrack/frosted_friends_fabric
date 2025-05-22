@@ -59,13 +59,13 @@ public class FrozenFishBlock extends IceBlock {
 
     @Override
     protected void appendProperties(StateManager.Builder<Block, BlockState> builder) {
-        builder.add(Properties.HORIZONTAL_FACING);
+        builder.add(FACING);
     }
 
     @Override
     public @Nullable BlockState getPlacementState(ItemPlacementContext ctx) {
         return super.getPlacementState(ctx)
-                .with(Properties.HORIZONTAL_FACING, ctx.getHorizontalPlayerFacing());
+                .with(FACING, ctx.getHorizontalPlayerFacing());
     }
 
     @Override
